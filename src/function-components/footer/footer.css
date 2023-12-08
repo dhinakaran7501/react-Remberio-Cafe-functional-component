@@ -1,0 +1,12 @@
+*{
+  font-family: inherit;
+}
+.footer{
+  margin: 10px 0px;
+  text-align: center;
+}
+.footer >p{
+  margin: 0;
+  line-height:1.5;
+  letter-spacing: 2.5px;
+}

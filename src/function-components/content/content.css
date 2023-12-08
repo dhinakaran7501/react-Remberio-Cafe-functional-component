@@ -1,0 +1,50 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 38px;
+}
+.content .products {
+  width: 30%;
+  position: relative;
+}
+.content .content-layer {
+  margin-bottom: 54px;
+  border: 1px solid white;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 8px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  width: 100%;
+  height: 162px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.content .img-section > img {
+  position: absolute;
+  top: -67px;
+  left: 0px;
+  width: 100%;
+  height: 129px;
+  object-fit: contain;
+}
+.content .name-section {
+  padding-top: 53px;
+}
+.content h4,
+h5 {
+  margin: 18px 0px;
+  color: black;
+  text-align: center;
+}
+.content h5 {
+  margin: 0;
+  font-size: 22px;
+}
+.content .rate-section {
+  background-color: #fe8111;
+  border: 1px solid lightgrey;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
