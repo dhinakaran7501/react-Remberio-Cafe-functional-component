@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-Remberio-Cafe-functional-component/static/css/main.2e5c3cb0.css",
+    "main.js": "/react-Remberio-Cafe-functional-component/static/js/main.cbcf7071.js",
+    "index.html": "/react-Remberio-Cafe-functional-component/index.html",
+    "main.2e5c3cb0.css.map": "/react-Remberio-Cafe-functional-component/static/css/main.2e5c3cb0.css.map",
+    "main.cbcf7071.js.map": "/react-Remberio-Cafe-functional-component/static/js/main.cbcf7071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5c3cb0.css",
+    "static/js/main.cbcf7071.js"
+  ]
+}
